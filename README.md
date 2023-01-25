@@ -1,2 +1,2 @@
 # Python_projects
-All my small projects on Python
+Все мои малые проекты, написанные на Python, не входящие в крупные проекты.
